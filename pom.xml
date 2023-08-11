@@ -7,6 +7,6 @@
   <name>trial3</name>
   <url>http://maven.apache.org</url>
   <build>
-    <finalName>trial3</finalName>
+    <finalName>add</finalName>
   </build>
 </project>
